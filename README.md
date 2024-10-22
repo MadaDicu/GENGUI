@@ -1,4 +1,4 @@
-# GENGUI
+# GenGUI
 
 GenGUI: A Dataset for Automatic Web User Interface Generation
 
